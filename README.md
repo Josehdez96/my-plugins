@@ -11,9 +11,14 @@ List of my plugins on VSCode:
 7. Prettier
 8. Pubspec Assist
 9. TODO highlight
-10. Kotlin Language
-12. Babel JavaScript
-13. ESLint 
-14. JavaScript (ES6) code snippets
-15. JavaScript and TypeScript Nightly
-16. Code Runner
+10. Git Blame
+11. GitLens
+12. Highlight Matching Tag
+13. Kotlin Language
+14. Import Cost
+15. Babel JavaScript
+16. ESLint 
+17. JavaScript (ES6) code snippets
+18. JavaScript and TypeScript Nightly
+19. Code Runner
+20. Auto Close Tag
