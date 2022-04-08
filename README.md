@@ -1,6 +1,7 @@
 # my-plugins
 List of my plugins on VSCode:
 
+// Filte .zshrc is for customize mac or linux terminal
 
 1. Awesome Flutter Snippets
 2. Dart
